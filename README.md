@@ -1,3 +1,5 @@
+https://travis-ci.com/quelea-projection/libAVPlayerJava.svg?branch=master
+
 # libAVPlayerJava
 Native OSX code for Quelea to play video on Mac devices.
 

@@ -3,4 +3,4 @@ osx_image: xcode9.4
 language: objective-c
 script:
     - xcodebuild -project "libAVPlayerJava XCode Project/AVPlayerJava.xcodeproj" -list
-    - xcodebuild clean build -project "libAVPlayerJava XCode Project/AVPlayerJava.xcodeproj" -scheme temp_caseinsensitive_renameTests CODE_SIGNING_REQUIRED=NO
+    - xcodebuild clean build -project "libAVPlayerJava XCode Project/AVPlayerJava.xcodeproj" -scheme AVPlayerJava.temp_caseinsensitive_renameTests CODE_SIGNING_REQUIRED=NO

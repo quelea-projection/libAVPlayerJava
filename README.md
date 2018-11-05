@@ -3,4 +3,4 @@
 # libAVPlayerJava
 Native OSX code for Quelea to play video on Mac devices.
 
-The VLCJ approach doesn't work by default on the Mac, but `AVToolkit` is a good, OSX-native alternative. This repository contains the Objective-C bindings to allow Quelea to use it.
+The VLCJ approach doesn't work by default on the Mac, but `AVFoundation` is a good, OSX-native alternative. This repository contains the Objective-C bindings to allow Quelea to use it.
